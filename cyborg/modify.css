@@ -101,3 +101,6 @@ img, embed, object, video {
 .well {
   padding: 29px;
 }
+.media-body {
+  overflow: hidden;
+}
